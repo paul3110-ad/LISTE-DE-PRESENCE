@@ -1,0 +1,1 @@
+Serveur GIT pour la gestion des reunions de l'OTR
