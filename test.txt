@@ -1,1 +1,2 @@
-Serveur GIT pour la gestion des reunions de l'OTR
+Serveur GIT pour la gestion des reunions de l'OTR..
+push reussit.. tout est pret pour le serveur GIT.
